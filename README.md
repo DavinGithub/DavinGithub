@@ -1,4 +1,4 @@
-![Banner]([https://example.com/your-banner-image-url](https://th.bing.com/th/id/OIP.4uHBx4G3cpXLGEPr54zmrgHaDw?w=312&h=177&c=7&r=0&o=5&dpr=1.3&pid=1.7))  <!-- Ganti dengan URL banner kamu -->
+![Banner]((https://th.bing.com/th/id/OIP.4uHBx4G3cpXLGEPr54zmrgHaDw?w=312&h=177&c=7&r=0&o=5&dpr=1.3&pid=1.7))  <!-- Ganti dengan URL banner kamu -->
 
 # 👋 Hi, I’m @DavinGithub
 
