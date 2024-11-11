@@ -1,5 +1,3 @@
-![Banner](https://th.bing.com/th/id/OIP.gFWhItsTKRMQ2O0wH7usRAHaDw?w=349&h=177&c=7&r=0&o=5&dpr=1.3&pid=1.7)
-
 # 👋 Hi, I’m @DavinGithub
 
 ## 🌟 About Me
@@ -23,7 +21,7 @@ I work with a variety of technologies, tools, and frameworks to build amazing we
 - PHP, JavaScript, HTML5, CSS3
 
 ### **Frameworks & Libraries**
-- Laravel, Vue.js, Node.js, Bootstrap
+- Laravel, Vue.js, Next.js, Node.js, Bootstrap
 
 ### **Databases**
 - MySQL, PostgreSQL, SQLite
@@ -35,7 +33,11 @@ I work with a variety of technologies, tools, and frameworks to build amazing we
 
 ## 📈 GitHub Stats
 
-![DavinGithub's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavinGithub&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+### Laravel Stats
+![Laravel Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavinGithub&layout=compact&langs_count=6&hide=html&theme=radical)
+
+### Next.js Stats
+![Next.js Stats](https://github-readme-stats.vercel.app/api?username=DavinGithub&show_icons=true&count_private=true&theme=radical)
 
 ---
 
@@ -60,15 +62,9 @@ Another cool project you want to highlight. It could be something you’ve worke
 
 ## 👨‍💻 Let's Connect
 
-- 💬 Ask me about **Laravel**, **Vue.js**, and **Web Development**
+- 💬 Ask me about **Laravel**, **Vue.js**, **Next.js**, and **Web Development**
 - 🧑‍💻 I’m always open to collaborating on new and exciting projects.
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-## 🎨 Additional Visuals & Banners
-
-![GitHub Banner](https://example.com/your-second-banner-image)  <!-- Another optional banner -->
