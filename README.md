@@ -7,7 +7,7 @@ I'm a passionate developer focused on creating elegant and efficient web applica
 - 👀 **Interests**: Web Development, APIs, Laravel, Vue.js, Open Source
 - 🌱 **Currently Learning**: Advanced Laravel, Vue.js 3, Machine Learning
 - 💞️ **Looking to collaborate on**: Open-source projects, API development, Laravel ecosystem
-- 📫 **How to reach me**: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📫 **How to reach me**: [Email](mailto:haidarrianto12345@gmail.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I once built a full-stack application in 48 hours! 🚀
 
