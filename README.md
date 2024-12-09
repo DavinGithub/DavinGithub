@@ -4,8 +4,8 @@
 
 I'm a passionate developer focused on creating elegant and efficient web applications. Always striving to learn new technologies and improve my skills.
 
-- 👀 **Interests**: Web Development, APIs, Laravel, Vue.js, Open Source
-- 🌱 **Currently Learning**: Advanced Laravel, Vue.js 3, Machine Learning
+- 👀 **Interests**: Web Development, APIs, Laravel
+- 🌱 **Currently Learning**:Laravel, Next.js
 - 💞️ **Looking to collaborate on**: Open-source projects, API development, Laravel ecosystem
 - 📫 **How to reach me**: [Email](mailto:haidarrianto12345@gmail.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)
 - 😄 **Pronouns**: He/Him
