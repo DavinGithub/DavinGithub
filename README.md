@@ -37,12 +37,6 @@ I'm a passionate developer focused on creating elegant and efficient web applica
 
 ---
 
-## 🐍 Watch the Snake  
-
-![Snake animation](https://github.com/DavinGithub/DavinGithub/blob/output/github-contribution-grid-snake.svg)  
-
----
-
 ## 💡 Featured Projects  
 
 ### 🚀 [Project 1 Name](https://github.com/DavinGithub/project-1)  
